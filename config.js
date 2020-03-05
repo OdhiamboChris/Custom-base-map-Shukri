@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/codeforafrica/ck0a9f4o62na61cqg7pg6zyk2',
     accessToken: 'pk.eyJ1IjoiY29kZWZvcmFmcmljYSIsImEiOiJzbUlkVDRNIn0.JUlW50UqJRZ3em2BKUBJIg',
-    showMarkers: true,
+    showMarkers: false,
     theme: 'light',
     alignment: 'right',
     title: '',
