@@ -163,13 +163,13 @@ var config = {
             },
             onChapterEnter: [
                 {
-                    layer: 'pennypack',
+                    layer: 'mog',
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'pennypack',
+                    layer: 'mog',
                     opacity: 0
                 }
             ]
