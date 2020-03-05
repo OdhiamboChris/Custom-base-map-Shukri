@@ -25,7 +25,7 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'phl-city-limits',
-                    opacity: .45
+                    opacity: 1
                 }
             ],
             onChapterExit: [
@@ -68,7 +68,7 @@ var config = {
             onChapterEnter: [
                 {
                     layer: 'indego-stations',
-                    opacity: 0.8
+                    opacity: 1
                 }
             ],
             onChapterExit: [
