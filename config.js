@@ -156,8 +156,8 @@ var config = {
             image: '',
             description: 'Many of Shukri\'s paternal relatives remain in Mogadishu but continue to have close connections with the family in Galkayo, as well as with other parts of the region. They continue to provide financial and material support. ',
             location: {
-                center: { lon: 12.53044, lat: 41.99854 },
-                zoom: 4.9,
+                center: { lon: 21.76906, lat: 28.23871 },
+                zoom: 3.03,
                 pitch: 0.00,
                 bearing: 0.00
             },
